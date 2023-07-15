@@ -10,7 +10,7 @@ SNAAP Inventory System - Advanced Database Management System Final Project
 ## Features  
 - Real-time inventory tracking 
 - Stock add and withdraw functionality
-- Add and delete product functionality
+- Product add and delete functionality
 - Manual stock count
 - Record transaction history
 - User-friendly interfaces
