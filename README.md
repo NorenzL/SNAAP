@@ -1,6 +1,10 @@
 # SNAAP
 SNAAP Inventory System - Advanced Database Management System Final Project
 
+![login](https://github.com/NorenzL/SNAAP/assets/68904749/58702f81-3bfc-46d4-ae65-9b5f52d289a7)
+![homepage](https://github.com/NorenzL/SNAAP/assets/68904749/014d1b85-eae8-4640-a137-a25576ff57fe)
+
+
 ## Collaborators
 - [Gutierrez, Sophia R.](https://github.com/sphgtrrz)  
 - Pusa, Ashly P.  
